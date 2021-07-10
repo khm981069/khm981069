@@ -1,6 +1,6 @@
 trackList = 
 [
-{name:"0001. Bad Guy壞女人 ",artist:"Billie Eilish ",src:"music/Billie Eilish - Bad Guy壞女人中文字幕 Lyrics"},
+{name:"0001. Bad Guy壞女人 ",artist:"Billie Eilish ",src:"music/Billie Eilish - Bad Guy壞女人中文字幕 Lyrics.mp3"},
 {name:"0002. 宇宙最強神團 LSD 神曲 Audio (中字MV)",artist:" LSD ",src:"music/宇宙最強神團 LSD 神曲 Audio (中字MV).mp3"},
 {name:"0003. Ariana Grande - Side to Side",artist:"Ariana Grande ",src:"music/Ariana Grande - Side to Side - Sexy Bike Riding Version.mp3"},
 {name:"0004. Avril Lavigne - When Youre Gone",artist:"Avril Lavigne ",src:"music/Avril Lavigne - When Youre Gone (Officia Music Video).mp3"},
