@@ -1,4 +1,4 @@
-﻿trackList = 
+trackList = 
 [
 {name:"0001. Bad Guy壞女人 ",artist:"Billie Eilish ",src:"music/Billie Eilish - Bad Guy壞女人中文字幕 Lyrics.mp3"},
 {name:"0002. 宇宙最強神團 LSD 神曲 Audio (中字MV)",artist:" LSD ",src:"music/宇宙最強神團 LSD 神曲 Audio (中字MV).mp3"},
