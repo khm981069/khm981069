@@ -23,7 +23,7 @@ trackList =
 {name:"0021. 老菸槍雙人組與碧碧蕾克莎 The Chainsmokers Bebe Rexha 你是我的 Call You Mine (中字MV)",artist:"老菸槍雙人組 ",src:"music/老菸槍雙人組與碧碧蕾克莎 The Chainsmokers Bebe Rexha 你是我的 Call You Mine (中字MV).mp3"},
 {name:"0022. Something Just Like This 如此而已 - The Chainsmokers Coldplay ",artist:"Something Just Like This ",src:"music/拯救了整座城市，卻救不了你：Something Just Like This 如此而已 - The Chainsmokers Coldplay 剪輯版 蜘蛛人驚奇再起 中文字幕.mp3"},
 {name:"0023. 馬汀蓋瑞克斯 Martin Garrix 與 Bebe Rexha 以愛之名 In The Name Of Love (HD中字MV)",artist:"馬汀蓋瑞克斯 Martin Garrix ",src:"music/馬汀蓋瑞克斯 Martin Garrix 與 Bebe Rexha 以愛之名 In The Name Of Love (HD中字MV).mp3"},
-{name:"0024. Q Park - AY AY AY (Official Music Video)",artist:"Q Park ",src:"music/Q Park - AY AY AY (Official Music Video).mp3"},
+{name:"0024. Q Park - AY AY  (Official Music Video)",artist:"Q Park ",src:"music/Q Park - AY AY  (Official Music Video).mp3"},
 {name:"0025. Ava Max - So Am I [Official Music Video]",artist:"Ava Max ",src:"music/Ava Max - So Am I [Official Music Video].mp3"},
 {name:"0026. Avril Lavigne - What The Hell (Official Music Video)",artist:"Avril Lavigne ",src:"music/Avril Lavigne - What The Hell (Official Music Video).mp3"},
 {name:"0027. Avril Lavigne - Girlfriend (Official Music Video)",artist:"Avril Lavigne ",src:"music/Avril Lavigne - Girlfriend (Official Music Video).mp3"},
