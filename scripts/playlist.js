@@ -1,6 +1,6 @@
 trackList = 
 [
-{name:"0001. Bad Guy壞女人 ",artist:"Billie Eilish ",src:"music/Billie Eilish - Bad Guy壞女人中文字幕 Lyrics.mp3"},
+{name:"0001. I Just Had Sex (feat. Akon)",artist:"Akon ",src:"music/I Just Had Sex (feat. Akon).mp3"},
 {name:"0002. 宇宙最強神團 LSD 神曲 Audio (中字MV)",artist:" LSD ",src:"music/宇宙最強神團 LSD 神曲 Audio (中字MV).mp3"},
 {name:"0003. Ariana Grande - Side to Side",artist:"Ariana Grande ",src:"music/Ariana Grande - Side to Side - Sexy Bike Riding Version.mp3"},
 {name:"0004. Avril Lavigne - When Youre Gone",artist:"Avril Lavigne ",src:"music/Avril Lavigne - When Youre Gone (Officia Music Video).mp3"},
@@ -46,7 +46,7 @@ trackList =
 {name:"0044. Diana Wang (王詩安) - HOME (Official Music Video)",artist:"王詩安 ",src:"music/Diana Wang (王詩安) - HOME (Official Music Video).mp3"},
 {name:"0045. G.E.M.【來自天堂的魔鬼 AWAY】Official MV [HD] 鄧紫棋",artist:"鄧紫棋 ",src:"music/G.E.M.【來自天堂的魔鬼 AWAY】Official MV [HD] 鄧紫棋.mp3"},
 {name:"0046. G.E.M.鄧紫棋【摩天動物園 City Zoo】Official Music Video",artist:"鄧紫棋 ",src:"music/G.E.M.鄧紫棋【摩天動物園 City Zoo】Official Music Video.mp3"},
-{name:"0047. G.E.M-光年之外 LIGHT YEARS AWAY ",artist:"鄧紫棋",src:"music/G.E.M-光年之外 LIGHT YEARS AWAY .mp3"},
+{name:"0047. Bad Guy壞女人 ",artist:"Billie Eilish ",src:"music/Billie Eilish - Bad Guy壞女人中文字幕 Lyrics.mp3"},  
 {name:"0048. G22 -【 蜜汁沼澤 】Official Music Video ( 韓力峻 KK 高爾宣 OSN 丁瑋 BT )",artist:"G22 ",src:"music/G22 -【 蜜汁沼澤 】Official Music Video ( 韓力峻 KK 高爾宣 OSN 丁瑋 BT ).mp3"},
 {name:"0049. Jay Chou 周杰倫【稻香 Rice Field】-Official Music Video",artist:"周杰倫 ",src:"Jay Chou 周杰倫【稻香 Rice Field】-Official Music Video.mp3"},
 {name:"0050. Mayday五月天[傷心的人別聽慢歌(貫徹快樂)]MV官方完整版-諾亞方舟3D電影主題曲",artist:"五月天 ",src:"music/Mayday五月天[傷心的人別聽慢歌(貫徹快樂)]MV官方完整版-諾亞方舟3D電影主題曲.mp3"},
@@ -111,7 +111,7 @@ trackList =
 {name:"0109. 陳忻玥 Vicky Chen -【Hands Up】Official MV",artist:"陳忻玥 ",src:"music/陳忻玥 Vicky Chen -【Hands Up】Official MV.mp3"},
 {name:"0110. 陳忻玥 Vicky Chen -【Treasure】Official MV",artist:"陳忻玥 ",src:"music/陳忻玥 Vicky Chen -【Treasure】Official MV.mp3"},
 {name:"0111. 陳忻玥 Vicky Chen -【入土之前 Till Im Underground】Official MV",artist:"陳忻玥 ",src:"music/陳忻玥 Vicky Chen -【入土之前 Till Im Underground】Official MV.mp3"},
-{name:"0112. 陳忻玥 Vicky Chen -【炙愛 (女聲版) Fiery Love Vicky Version】Official MV",artist:"陳忻玥 ",src:"陳忻玥 Vicky Chen -【炙愛 (女聲版) Fiery Love Vicky Version】Official MV.mp3"},
+{name:"0112. 陳忻玥 Vicky Chen -【炙愛 (女聲版) Fiery Love Vicky Version】Official MV",artist:"陳忻玥 ",src:"music/陳忻玥 Vicky Chen -【炙愛 (女聲版) Fiery Love Vicky Version】Official MV.mp3"},
 {name:"0113. 陳忻玥-My Love is Selfish 歌詞",artist:"陳忻玥 ",src:"music/陳忻玥-My Love is Selfish 歌詞.mp3"},
 {name:"0114. 陳雪凝 - 你的酒館對我打了烊【動態歌詞Lyrics】",artist:"陳雪凝 ",src:"music/陳雪凝 - 你的酒館對我打了烊【動態歌詞Lyrics】.mp3"},
 {name:"0115. 陳勢安 Andrew Tan   畢書盡 Bii - 勢在必行 (官方版MV)",artist:"陳勢安 ",src:"music/陳勢安 Andrew Tan   畢書盡 Bii - 勢在必行 (官方版MV).mp3"},
