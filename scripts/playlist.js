@@ -1,7 +1,7 @@
 trackList = 
 [
-{name:"0001. I Just Had Sex (feat. Akon)",artist:"Akon ",src:"music/I Just Had Sex (feat. Akon).mp3"},
-{name:"0002. 宇宙最強神團 LSD 神曲 Audio (中字MV)",artist:" LSD ",src:"music/宇宙最強神團 LSD 神曲 Audio (中字MV).mp3"},
+{name:"0001. BTS- Boy With Luv",artist:"BTS ",src:"music/BTS- Boy With Luv.mp3"},
+{name:"0002. INNA feat. Daddy Yankee - More Than Friends (Official Music Video)",artist:"INNA ",src:"music/INNA feat. Daddy Yankee - More Than Friends (Official Music Video).mp3"},
 {name:"0003. Ariana Grande - Side to Side",artist:"Ariana Grande ",src:"music/Ariana Grande - Side to Side - Sexy Bike Riding Version.mp3"},
 {name:"0004. Avril Lavigne - When Youre Gone",artist:"Avril Lavigne ",src:"music/Avril Lavigne - When Youre Gone (Officia Music Video).mp3"},
 {name:"0005. Avril Lavigne 艾薇兒 . Complicated 複雜 中文字幕",artist:"Avril Lavigne 艾薇兒 ",src:"music/Avril Lavigne 艾薇兒 . Complicated 複雜 中文字幕.mp3"},
@@ -48,7 +48,7 @@ trackList =
 {name:"0046. G.E.M.鄧紫棋【摩天動物園 City Zoo】Official Music Video",artist:"鄧紫棋 ",src:"music/G.E.M.鄧紫棋【摩天動物園 City Zoo】Official Music Video.mp3"},
 {name:"0047. Bad Guy壞女人 ",artist:"Billie Eilish ",src:"music/Billie Eilish - Bad Guy壞女人中文字幕 Lyrics.mp3"},  
 {name:"0048. G22 -【 蜜汁沼澤 】Official Music Video ( 韓力峻 KK 高爾宣 OSN 丁瑋 BT )",artist:"G22 ",src:"music/G22 -【 蜜汁沼澤 】Official Music Video ( 韓力峻 KK 高爾宣 OSN 丁瑋 BT ).mp3"},
-{name:"0049. Jay Chou 周杰倫【稻香 Rice Field】-Official Music Video",artist:"周杰倫 ",src:"Jay Chou 周杰倫【稻香 Rice Field】-Official Music Video.mp3"},
+{name:"0049. Jay Chou 周杰倫【稻香 Rice Field】-Official Music Video",artist:"周杰倫 ",src:"music/Jay Chou 周杰倫【稻香 Rice Field】-Official Music Video.mp3"},
 {name:"0050. Mayday五月天[傷心的人別聽慢歌(貫徹快樂)]MV官方完整版-諾亞方舟3D電影主題曲",artist:"五月天 ",src:"music/Mayday五月天[傷心的人別聽慢歌(貫徹快樂)]MV官方完整版-諾亞方舟3D電影主題曲.mp3"},
 {name:"0051. Mi2 - 勇敢愛",artist:"Mi2 ",src:"music/Mi2 - 勇敢愛.mp3"},
 {name:"0052. Naughty Boy - La la la ft. Sam Smith (Official Video)",artist:"Naughty Boy ",src:"music/Naughty Boy - La la la ft. Sam Smith (Official Video).mp3"},
@@ -216,5 +216,10 @@ trackList =
 {name:"0214. 李佳薇-煎熬 歌词",artist:"李佳薇 ",src:"music/李佳薇-煎熬 歌词.mp3"},
 {name:"0215. 薛之謙 演員【歌詞】",artist:"薛之謙 ",src:"music/薛之謙 演員【歌詞】.mp3"},
 {name:"0216. 孫盛希 - 少一點天份【歌詞】",artist:"孫盛希 ",src:"music/孫盛希 - 少一點天份【歌詞】.mp3"},
+{name:"0217. I Just Had Sex (feat. Akon)",artist:"Akon ",src:"music/I Just Had Sex (feat. Akon).mp3"},
+{name:"0218. 宇宙最強神團 LSD 神曲 Audio (中字MV)",artist:" LSD ",src:"music/宇宙最強神團 LSD 神曲 Audio (中字MV).mp3"}, 
+{name:"0219. Avril Lavigne - Rock N Roll (with lyrics)",artist:" Avril Lavigne ",src:"music/Avril Lavigne - Rock N Roll (with lyrics).mp3"}, 
+{name:"0220. 一起做過的蠢事情  歌词 Lyrics",artist:" 黃明志 ",src:"music/一起做過的蠢事情  歌词 Lyrics.mp3"},   
+{name:"0221. BTS - FIRE",artist:" BTS ",src:"music/BTS - FIRE.mp3"},
 {name:"1000. 金莎 - 愛的魔法-希望你就是對的人",artist:"金莎 ",src:"music/金莎 - 愛的魔法-希望你就是對的人.mp3"}
 ];
