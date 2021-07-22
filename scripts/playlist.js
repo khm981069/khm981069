@@ -1,5 +1,13 @@
 trackList = 
 [
+{name:"周杰倫 愛的飛行日記",artist:"周杰倫 ",src:"music/周杰倫 愛的飛行日記.mp3"},
+{name:"薛之謙 演員",artist:"薛之謙 ",src:"music/薛之謙 演員.mp3"},
+{name:"薛之謙 醜八怪",artist:"薛之謙 ",src:"music/薛之謙 醜八怪.mp3"}, 
+{name:"吉茵珂絲 大鬧一場",artist:"吉茵珂絲 ",src:"music/吉茵珂絲 大鬧一場.mp3"}, 
+{name:"Carly Rae Jepsen - Call Me Maybe",artist:"Carly Rae Jepsen ",src:"music/Carly Rae Jepsen - Call Me Maybe.mp3"},
+{name:"瓦羅然樂章冠軍作品 - 德瑪西亞 MV",artist:"瓦羅然樂章冠軍作品 ",src:"music/瓦羅然樂章冠軍作品 - 德瑪西亞 MV.mp3"},
+{name:"水晶之痕戰歌",artist:"bii ",src:"music/水晶之痕戰歌.mp3"},
+{name:"田馥甄 -小幸運",artist:"田馥甄 ",src:"music/田馥甄 -小幸運.mp3"},
 {name:"0001. BTS- Boy With Luv",artist:"BTS ",src:"music/BTS- Boy With Luv.mp3"},
 {name:"0002. INNA feat. Daddy Yankee - More Than Friends (Official Music Video)",artist:"INNA ",src:"music/INNA feat. Daddy Yankee - More Than Friends (Official Music Video).mp3"},
 {name:"0003. Ariana Grande - Side to Side",artist:"Ariana Grande ",src:"music/Ariana Grande - Side to Side - Sexy Bike Riding Version.mp3"},
