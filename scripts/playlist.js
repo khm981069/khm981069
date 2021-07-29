@@ -1,5 +1,9 @@
 trackList = 
 [
+{name:"kenzie - Donuts",artist:"kenzie ",src:"music/kenzie - Donuts.mp3"},
+{name:"周予天-分手放手",artist:"周予天 ",src:"music/周予天-分手放手.mp3"},
+{name:"Keep Up",artist:"畢 ",src:"music/Keep Up.mp3"},
+{name:"麻吉弟弟 被愛妄想症",artist:"麻吉弟弟 ",src:"music/麻吉弟弟 被愛妄想症.mp3"},
 {name:"Phoenix",artist:"119109 ",src:"music/Phoenix (ft. Cailin Russo and Chrissy Costanza) Worlds 2019 - League of Legends.mp3"},
 {name:"RAIN- Switch to me",artist:"RAIN ",src:"music/RAIN- Switch to me.mp3"},
 {name:"Sia - Unstoppable (Lyrics)",artist:"Sia ",src:"music/Sia - Unstoppable (Lyrics).mp3"},
@@ -10,7 +14,7 @@ trackList =
 {name:"MC HotDog 熱狗 Feat. 艾怡良 Eve Ai 【怨偶 Tough Love】",artist:"熱狗 ",src:"music/MC HotDog 熱狗 Feat. 艾怡良 Eve Ai 【怨偶 Tough Love】.mp3"},
 {name:"沈懿 - 戰舞",artist:"沈懿 ",src:"music/沈懿 - 戰舞.mp3"},
 {name:"面對疾風吧",artist:"畢 ",src:"music/面對疾風吧.mp3"},
-{name:"0000.周杰倫 愛的飛行日記",artist:"周杰倫 ",src:"music/周杰倫 愛的飛行日記.mp3"},
+{name:"Cash Cash - Ride or Die",artist:"畢 ",src:"music/Cash Cash - Ride or Die.mp3"},
 {name:"0000.薛之謙 演員",artist:"薛之謙 ",src:"music/薛之謙 演員.mp3"},
 {name:"薛之謙 醜八怪",artist:"薛之謙 ",src:"music/薛之謙 醜八怪.mp3"}, 
 {name:"吉茵珂絲 大鬧一場",artist:"吉茵珂絲 ",src:"music/吉茵珂絲 大鬧一場.mp3"}, 
