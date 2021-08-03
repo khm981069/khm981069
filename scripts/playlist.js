@@ -3,6 +3,8 @@ trackList =
 {name:"黃明志 不想上班 歌詞",artist:"黃明志 ",src:"music/黃明志 不想上班 歌詞.mp3"},
 {name:"高爾宣 OSN -最後一次",artist:"高爾宣 ",src:"music/高爾宣 OSN -最後一次.mp3"},
 {name:"高爾宣 OSN - Why You Gonna Lie",artist:"高爾宣 ",src:"music/高爾宣 OSN - Why You Gonna Lie.mp3"},
+{name:"David Guetta Showtek - Bad ft.Vassy (Lyrics Video)",artist:"David Guetta ",src:"music/David Guetta Showtek - Bad ft.Vassy (Lyrics Video).mp3"},
+{name:"Play Hard (feat. Ne-Yo Akon) (New Edit)",artist:"Ne-Yo Akon ",src:"music/Play Hard (feat. Ne-Yo Akon) (New Edit).mp3"},
 {name:"A Lin 失戀無罪 歌詞",artist:"A Lin ",src:"music/A Lin 失戀無罪 歌詞.mp3"},
 {name:"五月天 May Day傷心的人別聽慢歌",artist:"五月天 ",src:"music/五月天 May Day傷心的人別聽慢歌.mp3"},
 {name:"泰國恰恰-黃明志",artist:"黃明志 ",src:"music/泰國恰恰-黃明志.mp3"},
