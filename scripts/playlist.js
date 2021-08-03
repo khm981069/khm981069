@@ -1,5 +1,13 @@
 trackList = 
 [
+{name:"黃明志 不想上班 歌詞",artist:"黃明志 ",src:"music/黃明志 不想上班 歌詞.mp3"},
+{name:"泰國恰恰-黃明志",artist:"黃明志 ",src:"music/泰國恰恰-黃明志.mp3"},
+{name:"黃明志-泰國情歌",artist:"黃明志 ",src:"music/黃明志-泰國情歌.mp3"},
+{name:"八三夭 -渴了",artist:"831 ",src:"music/八三夭 -渴了.mp3"},
+{name:"八三夭 - 東區東區 ( 歌詞 )",artist:"831 ",src:"music/八三夭 - 東區東區 ( 歌詞 ).mp3"},
+{name:"八三夭 刀劍如夢2.0 歌詞",artist:"831 ",src:"music/八三夭 刀劍如夢2.0 歌詞.mp3"},
+{name:"玖壹壹-9453(歌詞)",artist:"911 ",src:"music/玖壹壹-9453(歌詞).mp3"},
+{name:"大嘴巴 Da Mouth - Funky 那個女孩 ft. 藍心湄 (Official Music Video)",artist:"大嘴巴 ",src:"music/大嘴巴 Da Mouth - Funky 那個女孩 ft. 藍心湄 (Official Music Video).mp3"},
 {name:"kenzie - Donuts",artist:"kenzie ",src:"music/kenzie - Donuts.mp3"},
 {name:"周予天-分手放手",artist:"周予天 ",src:"music/周予天-分手放手.mp3"},
 {name:"Keep Up",artist:"畢 ",src:"music/Keep Up.mp3"},
