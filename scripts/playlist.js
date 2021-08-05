@@ -1,13 +1,14 @@
 trackList = 
 [
-{name:"曹楊-妳說妳還不了",artist:"嘉 ",src:"曹楊-妳說妳還不了.mp3"},  
-{name:"曹楊-為誰美麗",artist:"嘉 ",src:"曹楊-為誰美麗.mp3"},  
-{name:"e大泫 - 靜悄悄",artist:"嘉 ",src:"大泫 - 靜悄悄.mp3"},
-{name:"en - 間距",artist:"嘉 ",src:"en - 間距.mp3"},
+
+{name:"曹楊-妳說妳還不了",artist:"嘉 ",src:"music/曹楊-妳說妳還不了.mp3"},  
+{name:"曹楊-為誰美麗",artist:"嘉 ",src:"music/曹楊-為誰美麗.mp3"},  
+{name:"e大泫 - 靜悄悄",artist:"嘉 ",src:"music/大泫 - 靜悄悄.mp3"},
+{name:"en - 間距",artist:"嘉 ",src:"music/en - 間距.mp3"},
 {name:"周予天-分手放手",artist:"周予天 ",src:"music/周予天-分手放手.mp3"},
 {name:"李巍V仔-守護著我的光",artist:"嘉 ",src:"music/李巍V仔 - 守護著我的光.mp3"},
-{name:"阿冗 - 三個字",artist:"嘉 ",src:"阿冗 - 三個字.mp3"},
-{name:"孫盛希-我們",artist:"嘉 ",src:"孫盛希-我們.mp3"},  
+{name:"阿冗 - 三個字",artist:"嘉 ",src:"music/阿冗 - 三個字.mp3"},
+{name:"孫盛希-我們",artist:"嘉 ",src:"music/盛希-我們.mp3"},  
 {name:"勝嶼 - 歐若拉",artist:"嘉 ",src:"music/勝嶼 - 歐若拉.mp3"}, 
 {name:"陳華-無歡 NoFun",artist:"嘉 ",src:"music/陳華-無歡 NoFun.mp3"},  
 {name:"kenzie - Donuts",artist:"嘉 ",src:"music/kenzie - Donuts.mp3"},
