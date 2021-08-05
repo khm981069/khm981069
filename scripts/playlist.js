@@ -1,7 +1,7 @@
 trackList = 
 [
-
-{name:"曹楊-妳說妳還不了",artist:"嘉 ",src:"music/曹楊-妳說妳還不了.mp3"},  
+{name:"曹楊-妳說妳還不了",artist:"嘉 ",src:"music/曹楊-妳說妳還不了.mp3"},
+ 
 {name:"曹楊-為誰美麗",artist:"嘉 ",src:"music/曹楊-為誰美麗.mp3"},  
 {name:"e大泫 - 靜悄悄",artist:"嘉 ",src:"music/大泫 - 靜悄悄.mp3"},
 {name:"en - 間距",artist:"嘉 ",src:"music/en - 間距.mp3"},
