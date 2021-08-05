@@ -1,5 +1,6 @@
 trackList = 
 [
+{name:"勝嶼 - 歐若拉",artist:"勝嶼 ",src:"music/勝嶼 - 歐若拉.mp3"},  
 {name:"黃明志 不想上班 歌詞",artist:"黃明志 ",src:"music/黃明志 不想上班 歌詞.mp3"},
 {name:"高爾宣 OSN -最後一次",artist:"高爾宣 ",src:"music/高爾宣 OSN -最後一次.mp3"},
 {name:"高爾宣 OSN - Why You Gonna Lie",artist:"高爾宣 ",src:"music/高爾宣 OSN - Why You Gonna Lie.mp3"},
