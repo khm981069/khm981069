@@ -162,7 +162,7 @@ trackList =
 {name:"0103. 茄子蛋EggPlantEgg - 愛情你比我想的閣較偉大",artist:"茄子蛋 ",src:"music/茄子蛋EggPlantEgg - 愛情你比我想的閣較偉大.mp3"},
 {name:"0104. 音闕詩聽 - 芒種 (feat.趙方婧)【動態歌詞Lyrics】",artist:"趙方婧 ",src:"music/音闕詩聽 - 芒種 (feat.趙方婧)【動態歌詞Lyrics】.mp3"},
 {name:"0105. 草屯囝仔 - 媽祖 (Mazu) Prod. Huangfu (Official Video)",artist:"草屯囝仔 ",src:"music/草屯囝仔 - 媽祖 (Mazu) Prod. Huangfu (Official Video).mp3"},
-{name:"0106. 高爾宣 OSN - So Bad",artist:"高爾宣 OSN ",src:"music/哈瓦那情人 卡蜜拉 Camila Cabello 我的老天兒 My Oh My (中字MV).mp3"},
+{name:"0106. 哈瓦那情人 卡蜜拉 Camila Cabello 我的老天兒 My Oh My",artist:" 卡蜜拉 ",src:"music/哈瓦那情人 卡蜜拉 Camila Cabello 我的老天兒 My Oh My (中字MV).mp3"},
 {name:"0107. 接個吻，開一槍、沈以誠、薛明媛 - 失眠飛行【動態歌詞Lyrics】",artist:"沈以誠 ",src:"music/接個吻，開一槍、沈以誠、薛明媛 - 失眠飛行【動態歌詞Lyrics】.mp3"},
 {name:"0108. 陳忻玥 Vicky Chen - 煙幕 (Smokescreen)",artist:"陳忻玥 ",src:"music/陳忻玥 Vicky Chen - 煙幕 (Smokescreen).mp3"},
 {name:"0109. 陳忻玥 Vicky Chen -【Hands Up】Official MV",artist:"陳忻玥 ",src:"music/陳忻玥 Vicky Chen -【Hands Up】Official MV.mp3"},
@@ -278,5 +278,13 @@ trackList =
 {name:"0219. Avril Lavigne - Rock N Roll (with lyrics)",artist:" Avril Lavigne ",src:"music/Avril Lavigne - Rock N Roll (with lyrics).mp3"}, 
 {name:"0220. 一起做過的蠢事情  歌词 Lyrics",artist:" 黃明志 ",src:"music/一起做過的蠢事情  歌词 Lyrics.mp3"},   
 {name:"0221. BTS - FIRE",artist:" BTS ",src:"music/BTS - FIRE.mp3"},
+{name:"談判技巧1",artist:" 畢 ",src:"music/談判技巧1.mp3"},
+{name:"談判技巧2",artist:" 畢 ",src:"music/談判技巧2.mp3"},
+{name:"談判技巧3",artist:" 畢 ",src:"music/談判技巧3.mp3"},
+{name:"自我挫折感1",artist:" 畢 ",src:"music/自我挫折感1.mp3"},
+{name:"自我挫折感2",artist:" 畢 ",src:"music/自我挫折感2.mp3"},
+{name:"自我挫折感3",artist:" 畢 ",src:"music/自我挫折感3.mp3"},
+{name:"年後離職是風潮？ 1",artist:" 畢 ",src:"music/年後離職是風潮？ 1.mp3"},
+{name:"年後離職是風潮？2",artist:" 畢 ",src:"music/年後離職是風潮？2.mp3"},
 {name:"1000. 金莎 - 愛的魔法-希望你就是對的人",artist:"金莎 ",src:"music/金莎 - 愛的魔法-希望你就是對的人.mp3"}
 ];
