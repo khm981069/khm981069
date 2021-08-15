@@ -278,14 +278,6 @@ trackList =
 {name:"0219. Avril Lavigne - Rock N Roll (with lyrics)",artist:" Avril Lavigne ",src:"music/Avril Lavigne - Rock N Roll (with lyrics).mp3"}, 
 {name:"0220. 一起做過的蠢事情  歌词 Lyrics",artist:" 黃明志 ",src:"music/一起做過的蠢事情  歌词 Lyrics.mp3"},   
 {name:"0221. BTS - FIRE",artist:" BTS ",src:"music/BTS - FIRE.mp3"},
-{name:"談判技巧1",artist:" 畢 ",src:"music/談判技巧1.mp3"},
-{name:"談判技巧2",artist:" 畢 ",src:"music/談判技巧2.mp3"},
-{name:"談判技巧3",artist:" 畢 ",src:"music/談判技巧3.mp3"},
-{name:"自我挫折感1",artist:" 畢 ",src:"music/自我挫折感1.mp3"},
-{name:"自我挫折感2",artist:" 畢 ",src:"music/自我挫折感2.mp3"},
-{name:"自我挫折感3",artist:" 畢 ",src:"music/自我挫折感3.mp3"},
-{name:"年後離職是風潮？ 1",artist:" 畢 ",src:"music/年後離職是風潮？ 1.mp3"},
-{name:"年後離職是風潮？2",artist:" 畢 ",src:"music/年後離職是風潮？2.mp3"},
 {name:"1000. 金莎 - 愛的魔法-希望你就是對的人",artist:"金莎 ",src:"music/金莎 - 愛的魔法-希望你就是對的人.mp3"}
 ];
 
