@@ -1,23 +1,6 @@
 trackList = 
 [
-{name:"曹楊-妳說妳還不了",artist:"嘉 ",src:"music/曹楊-妳說妳還不了.mp3"},
- 
-{name:"曹楊-為誰美麗",artist:"嘉 ",src:"music/曹楊-為誰美麗.mp3"},  
-{name:"e大泫 - 靜悄悄",artist:"嘉 ",src:"music/大泫 - 靜悄悄.mp3"},
-{name:"en - 間距",artist:"嘉 ",src:"music/en - 間距.mp3"},
-{name:"周予天-分手放手",artist:"周予天 ",src:"music/周予天-分手放手.mp3"},
-{name:"李巍V仔-守護著我的光",artist:"嘉 ",src:"music/李巍V仔 - 守護著我的光.mp3"},
-{name:"阿冗 - 三個字",artist:"嘉 ",src:"music/阿冗 - 三個字.mp3"},
-{name:"孫盛希-我們",artist:"嘉 ",src:"music/孫盛希-我們.mp3"},  
-{name:"勝嶼 - 歐若拉",artist:"嘉 ",src:"music/勝嶼 - 歐若拉.mp3"}, 
-{name:"陳華-無歡 NoFun",artist:"嘉 ",src:"music/陳華-無歡 NoFun.mp3"},  
-{name:"kenzie - Donuts",artist:"嘉 ",src:"music/kenzie - Donuts.mp3"},
-{name:"Phoenix",artist:"嘉 ",src:"music/Phoenix (ft. Cailin Russo and Chrissy Costanza) Worlds 2019 - League of Legends.mp3"},
-{name:"RAIN- Switch to me",artist:"嘉 ",src:"music/RAIN- Switch to me.mp3"},
-{name:"Sia - Unstoppable (Lyrics)",artist:"嘉 ",src:"music/Sia - Unstoppable (Lyrics).mp3"},
-{name:"Cash Cash - Ride or Die",artist:"嘉",src:"music/Cash Cash - Ride or Die.mp3"},
-{name:"麻吉弟弟 被愛妄想症",artist:"嘉",src:"music/麻吉弟弟 被愛妄想症.mp3"},
-{name:"Keep Up",artist:"嘉 ",src:"music/Keep Up.mp3"},
+
 {name:"黃明志 不想上班 歌詞",artist:"黃明志 ",src:"music/黃明志 不想上班 歌詞.mp3"},
 {name:"高爾宣 OSN -最後一次",artist:"高爾宣 ",src:"music/高爾宣 OSN -最後一次.mp3"},
 {name:"高爾宣 OSN - Why You Gonna Lie",artist:"高爾宣 ",src:"music/高爾宣 OSN - Why You Gonna Lie.mp3"},
