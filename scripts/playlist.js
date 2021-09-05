@@ -246,7 +246,7 @@ trackList =
 {name:"0204. 黃鴻升 Alien Huang【拿破崙 Napoléon】Official Music Video",artist:"黃鴻升 ",src:"music/黃鴻升 Alien Huang【拿破崙 Napoléon】Official Music Video.mp3"},
 {name:"0205. 潘瑋柏Will Pan 24個比利 24billy官方完整HD MV",artist:"潘瑋柏 ",src:"music/潘瑋柏Will Pan 24個比利 24billy官方完整HD MV.mp3"},
 {name:"0206. 蔡依林 - Im not yours. 歌詞",artist:"蔡依林 ",src:"music/蔡依林 - Im not yours. 歌詞.mp3"},
-{name:"0207. 鄧福如小宇 前面路口停 歌詞",artist:"莎拉萊森 ",src:"music/莎拉萊森 Zara Larsson - 不是我的錯 Aint My Fault (HD中字MV).mp3"},
+{name:"0207. 莎拉萊森 Zara Larsson - 不是我的錯",artist:"莎拉萊森 ",src:"music/莎拉萊森 Zara Larsson - 不是我的錯 Aint My Fault (HD中字MV).mp3"},
 {name:"0208. 閻奕格TANK [ 無罪之罪 Innocent Sin ] 電影「樂獄」主題曲 歌詞",artist:"閻奕格 ",src:"music/閻奕格TANK [ 無罪之罪 Innocent Sin ] 電影「樂獄」主題曲 歌詞.mp3"},
 {name:"0209. 寶石Gem Kozay Evis Wy《愛的恰恰 Color Graded》官方高畫質 Official HD MV",artist:"寶石Gem ",src:"music/寶石Gem Kozay Evis Wy《愛的恰恰 Color Graded》官方高畫質 Official HD MV.mp3"},
 {name:"0210. Keha - Take It Off (Official Video)",artist:"Keha ",src:"music/Keha - Take It Off (Official Video).mp3"},
