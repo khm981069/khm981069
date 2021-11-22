@@ -1,6 +1,12 @@
 trackList = 
 [
-
+{name:"R3HAB 蔡依林 Jolin Tsai《Stars Align》Official Music Video",artist:"蔡依林 ",src:"music/R3HAB 蔡依林 Jolin Tsai《Stars Align》Official Music Video.mp3"},
+{name:"不是花火呀 - Ring Ring Ring",artist:"SHE ",src:"music/不是花火呀 - Ring Ring Ring.mp3"},
+{name:"玖壹壹- 嘎勒阿勒",artist:"911 ",src:"music/玖壹壹- 嘎勒阿勒.mp3"},
+{name:"納斯小子 Lil Nas X 與 Jack Harlow 天生巨星 INDUSTRY BABY (中字MV)",artist:"納斯小子 ",src:"music/納斯小子 Lil Nas X 與 Jack Harlow 天生巨星 INDUSTRY BABY (中字MV).mp3"},
+{name:"動力火車-我很好騙【歌詞】",artist:"動力火車 ",src:"music/動力火車-我很好騙【歌詞】.mp3"},
+{name:"黃明志 Ft.陳芳語玻璃心",artist:"黃明志 ",src:"music/黃明志 Ft.陳芳語玻璃心.mp3"},
+{name:"黃明志 Namewee中國痛",artist:"黃明志 ",src:"music/黃明志 Namewee中國痛.mp3"},
 {name:"黃明志 不想上班 歌詞",artist:"黃明志 ",src:"music/黃明志 不想上班 歌詞.mp3"},
 {name:"高爾宣 OSN -最後一次",artist:"高爾宣 ",src:"music/高爾宣 OSN -最後一次.mp3"},
 {name:"高爾宣 OSN - Why You Gonna Lie",artist:"高爾宣 ",src:"music/高爾宣 OSN - Why You Gonna Lie.mp3"},
