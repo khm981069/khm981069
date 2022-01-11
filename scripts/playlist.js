@@ -1,5 +1,18 @@
 trackList = 
 [
+{name:"Justin Bieber - STAY",artist:"Lam 賈斯汀 ",src:"music/Justin Bieber - STAY.mp3"},
+{name:"David Guetta – Family",artist:"David Guetta ",src:"music/David Guetta – Family.mp3"},
+{name:"KDA - POPSTARS",artist:"KDA ",src:"music/KDA - POPSTARS.mp3"},
+{name:"Phoenix (ft. Cailin Russo and Chrissy Costanza)",artist:"Chrissy Costanza ",src:"music/Phoenix (ft. Cailin Russo and Chrissy Costanza).mp3"},
+{name:"周湯豪 NICKTHEREAL〈愛上你算我賤〉",artist:"周湯豪 ",src:"music/周湯豪 NICKTHEREAL〈愛上你算我賤〉.mp3"},
+{name:"抱一抱一下 (feat. 柯佳嬿)",artist:"831 ",src:"music/抱一抱一下 (feat. 柯佳嬿).mp3"},
+{name:"謝和弦 R-chord – 蘋果",artist:"謝和弦 ",src:"music/謝和弦 R-chord – 蘋果).mp3"},
+{name:"陳忻玥 Vicky Chen -【You Like Me】Official MV",artist:"陳忻玥 ",src:"music/陳忻玥 Vicky Chen -【You Like Me】Official MV.mp3"},
+{name:"Changing-陳忻玥",artist:"陳忻玥 ",src:"music/Changing-陳忻玥.mp3"},
+{name:"薩頂頂《左手指月",artist:"薩頂頂 ",src:"music/薩頂頂《左手指月.mp3"},
+
+  
+  
 {name:"R3HAB 蔡依林 Jolin Tsai《Stars Align》Official Music Video",artist:"蔡依林 ",src:"music/R3HAB 蔡依林 Jolin Tsai《Stars Align》Official Music Video.mp3"},
 {name:"不是花火呀 - Ring Ring Ring",artist:"SHE ",src:"music/不是花火呀 - Ring Ring Ring.mp3"},
 {name:"玖壹壹- 嘎勒阿勒",artist:"911 ",src:"music/玖壹壹- 嘎勒阿勒.mp3"},
@@ -12,14 +25,7 @@ trackList =
 {name:"David Guetta Showtek - Bad ft.Vassy (Lyrics Video)",artist:"David Guetta ",src:"music/David Guetta Showtek - Bad ft.Vassy (Lyrics Video).mp3"},
 {name:"Play Hard (feat. Ne-Yo Akon) (New Edit)",artist:"Ne-Yo Akon ",src:"music/Play Hard (feat. Ne-Yo Akon) (New Edit).mp3"},
 {name:"A Lin 失戀無罪 歌詞",artist:"A Lin ",src:"music/A Lin 失戀無罪 歌詞.mp3"},
-{name:"五月天 May Day傷心的人別聽慢歌",artist:"五月天 ",src:"music/五月天 May Day傷心的人別聽慢歌.mp3"},
-{name:"泰國恰恰-黃明志",artist:"黃明志 ",src:"music/泰國恰恰-黃明志.mp3"},
-{name:"五月天-派對動物",artist:"五月天 ",src:"music/五月天-派對動物.mp3"},
-{name:"五月天 - 入陣曲【歌詞】",artist:"五月天 ",src:"music/五月天 - 入陣曲【歌詞】.mp3"},
-{name:"五月天-將軍令",artist:"五月天 ",src:"music/五月天-將軍令.mp3"},
-{name:"五月天 洗衣機 歌詞",artist:"五月天 ",src:"music/五月天 洗衣機 歌詞.mp3"},
-{name:"芒种-嘿人李逵",artist:"嘿人李逵 ",src:"music/芒种-嘿人李逵.mp3"},
-{name:"周杰倫-大笨鐘 歌詞",artist:"周杰倫 ",src:"music/周杰倫-大笨鐘 歌詞.mp3"},
+
 {name:"馮提莫 Timo Feng - 佛系少女",artist:"馮提莫 ",src:"music/馮提莫 Timo Feng - 佛系少女.mp3"},
 {name:"潘柚彤- 學貓叫",artist:"潘柚彤 ",src:"music/潘柚彤- 學貓叫.mp3"},
 {name:"潘柚彤- 一起做過的蠢事情",artist:"黃明志 ",src:"music/潘柚彤- 一起做過的蠢事情.mp3"},
@@ -36,7 +42,6 @@ trackList =
 {name:"0000.周杰倫 愛的飛行日記",artist:"周杰倫 ",src:"music/周杰倫 愛的飛行日記.mp3"}, 
 {name:"MC HotDog 熱狗 Feat. 艾怡良 Eve Ai 【怨偶 Tough Love】",artist:"熱狗 ",src:"music/MC HotDog 熱狗 Feat. 艾怡良 Eve Ai 【怨偶 Tough Love】.mp3"},
 {name:"沈懿 - 戰舞",artist:"沈懿 ",src:"music/沈懿 - 戰舞.mp3"},
-{name:"面對疾風吧",artist:"畢 ",src:"music/面對疾風吧.mp3"},
 
 {name:"0000.薛之謙 演員",artist:"薛之謙 ",src:"music/薛之謙 演員.mp3"},
 {name:"薛之謙 醜八怪",artist:"薛之謙 ",src:"music/薛之謙 醜八怪.mp3"}, 
@@ -266,6 +271,14 @@ trackList =
 {name:"0219. Avril Lavigne - Rock N Roll (with lyrics)",artist:" Avril Lavigne ",src:"music/Avril Lavigne - Rock N Roll (with lyrics).mp3"}, 
 {name:"0220. 一起做過的蠢事情  歌词 Lyrics",artist:" 黃明志 ",src:"music/一起做過的蠢事情  歌词 Lyrics.mp3"},   
 {name:"0221. BTS - FIRE",artist:" BTS ",src:"music/BTS - FIRE.mp3"},
+{name:"五月天 May Day傷心的人別聽慢歌",artist:"五月天 ",src:"music/五月天 May Day傷心的人別聽慢歌.mp3"},
+{name:"泰國恰恰-黃明志",artist:"黃明志 ",src:"music/泰國恰恰-黃明志.mp3"},
+{name:"五月天-派對動物",artist:"五月天 ",src:"music/五月天-派對動物.mp3"},
+{name:"五月天 - 入陣曲【歌詞】",artist:"五月天 ",src:"music/五月天 - 入陣曲【歌詞】.mp3"},
+{name:"五月天-將軍令",artist:"五月天 ",src:"music/五月天-將軍令.mp3"},
+{name:"五月天 洗衣機 歌詞",artist:"五月天 ",src:"music/五月天 洗衣機 歌詞.mp3"},
+{name:"芒种-嘿人李逵",artist:"嘿人李逵 ",src:"music/芒种-嘿人李逵.mp3"},
+{name:"周杰倫-大笨鐘 歌詞",artist:"周杰倫 ",src:"music/周杰倫-大笨鐘 歌詞.mp3"},
 {name:"1000. 金莎 - 愛的魔法-希望你就是對的人",artist:"金莎 ",src:"music/金莎 - 愛的魔法-希望你就是對的人.mp3"}
 ];
 
