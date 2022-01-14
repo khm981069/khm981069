@@ -6,7 +6,7 @@ trackList =
 {name:"Phoenix (ft. Cailin Russo and Chrissy Costanza)",artist:"Chrissy Costanza ",src:"music/Phoenix (ft. Cailin Russo and Chrissy Costanza).mp3"},
 {name:"周湯豪 NICKTHEREAL〈愛上你算我賤〉",artist:"周湯豪 ",src:"music/周湯豪 NICKTHEREAL〈愛上你算我賤〉.mp3"},
 {name:"抱一抱一下 (feat. 柯佳嬿)",artist:"831 ",src:"music/抱一抱一下 (feat. 柯佳嬿).mp3"},
-{name:"謝和弦 R-chord – 蘋果",artist:"謝和弦 ",src:"music/謝和弦 R-chord – 蘋果).mp3"},
+{name:"謝和弦 R-chord – 蘋果",artist:"謝和弦 ",src:"music/謝和弦 R-chord – 蘋果.mp3"},
 {name:"陳忻玥 Vicky Chen -【You Like Me】Official MV",artist:"陳忻玥 ",src:"music/陳忻玥 Vicky Chen -【You Like Me】Official MV.mp3"},
 {name:"Changing-陳忻玥",artist:"陳忻玥 ",src:"music/Changing-陳忻玥.mp3"},
 {name:"薩頂頂《左手指月",artist:"薩頂頂 ",src:"music/薩頂頂《左手指月.mp3"},
