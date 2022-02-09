@@ -1,5 +1,6 @@
 trackList = 
 [
+{name:"老菸槍雙人組 The Chainsmokers 嗨 High (中字MV)",artist:"老菸槍雙人組 ",src:"music/老菸槍雙人組 The Chainsmokers 嗨 High (中字MV).mp3"},
 {name:"Justin Bieber - STAY",artist:"Lam 賈斯汀 ",src:"music/Justin Bieber - STAY.mp3"},
 {name:"David Guetta – Family",artist:"David Guetta ",src:"music/David Guetta – Family.mp3"},
 {name:"KDA - POPSTARS",artist:"KDA ",src:"music/KDA - POPSTARS.mp3"},
