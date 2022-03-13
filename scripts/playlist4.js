@@ -1,5 +1,6 @@
 trackList = 
 [
+{name:"瘦子E.SO 妹妹（歌詞）",artist:"瘦子E.SO ",src:"music/瘦子E.SO 妹妹（歌詞）.mp3"},
 {name:"001. 任然 - 飛鳥和蟬.mp3",artist:"",src:"20210319-20210325/001. 任然 - 飛鳥和蟬.mp3"},
 {name:"002. Eric 周興哲, 單依純 - 愛我的時候 (When You Loved Me).mp3",artist:"",src:"20210319-20210325/002. Eric 周興哲, 單依純 - 愛我的時候 (When You Loved Me).mp3"},
 {name:"003. 告五人 - 在這座城市遺失了你.mp3",artist:"",src:"20210319-20210325/003. 告五人 - 在這座城市遺失了你.mp3"},
