@@ -1,8 +1,7 @@
 trackList = 
 [
 {name:"瘦子E.SO 妹妹（歌詞）",artist:"瘦子E.SO ",src:"music/瘦子E.SO 妹妹（歌詞）.mp3"},
-{name:"顛倒世界",artist:"顛倒世界 ",src:"music/顛倒世界.mp3"},
-{name:"泰特麥可蕾 Tate McRae 好想成為她 shes all i wanna be (中字MV)",artist:"泰特麥可蕾 ",src:"泰特麥可蕾 Tate McRae 好想成為她 shes all i wanna be (中字MV).mp3"},
+{name:"泰特麥可蕾 Tate McRae 好想成為她 shes all i wanna be (中字MV)",artist:"泰特麥可蕾 ",src:"music/泰特麥可蕾 Tate McRae 好想成為她 shes all i wanna be (中字MV).mp3"},
 {name:"咪咪韋伯 Mimi Webb 燒掉你家 House On Fire (中字MV)",artist:"咪咪韋伯 ",src:"music/咪咪韋伯 Mimi Webb 燒掉你家 House On Fire (中字MV).mp3"},
 {name:"0133. 閻奕格 Janice Yan [ 愛上現在的我 Right , now! ](feat. 高爾宣 OSN) Official Music Video",artist:"閻奕格 ",src:"music/閻奕格 Janice Yan [ 愛上現在的我 Right , now! ](feat. 高爾宣 OSN) Official Music Video.mp3"}, 
 {name:"0100. 哈瓦那情人 卡蜜拉 Camila Cabello 我的老天兒 My Oh My (中字MV)",artist:"卡蜜拉 ",src:"music/哈瓦那情人 卡蜜拉 Camila Cabello 我的老天兒 My Oh My (中字MV).mp3"},
