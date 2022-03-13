@@ -1,5 +1,15 @@
 trackList = 
 [
+{name:"瘦子E.SO 妹妹（歌詞）",artist:"瘦子E.SO ",src:"music/瘦子E.SO 妹妹（歌詞）.mp3"},
+{name:"顛倒世界",artist:"顛倒世界 ",src:"music/顛倒世界.mp3"},
+{name:"泰特麥可蕾 Tate McRae 好想成為她 shes all i wanna be (中字MV)",artist:"泰特麥可蕾 ",src:"泰特麥可蕾 Tate McRae 好想成為她 shes all i wanna be (中字MV).mp3"},
+{name:"咪咪韋伯 Mimi Webb 燒掉你家 House On Fire (中字MV)",artist:"咪咪韋伯 ",src:"music/咪咪韋伯 Mimi Webb 燒掉你家 House On Fire (中字MV).mp3"},
+{name:"0133. 閻奕格 Janice Yan [ 愛上現在的我 Right , now! ](feat. 高爾宣 OSN) Official Music Video",artist:"閻奕格 ",src:"music/閻奕格 Janice Yan [ 愛上現在的我 Right , now! ](feat. 高爾宣 OSN) Official Music Video.mp3"}, 
+{name:"0100. 哈瓦那情人 卡蜜拉 Camila Cabello 我的老天兒 My Oh My (中字MV)",artist:"卡蜜拉 ",src:"music/哈瓦那情人 卡蜜拉 Camila Cabello 我的老天兒 My Oh My (中字MV).mp3"},
+{name:"0101. 美秀集團 - 擋一根 (高音質試聽)",artist:"美秀集團 ",src:"music/美秀集團 - 擋一根 (高音質試聽).mp3"},
+{name:"DNA",artist:"房貸少年 ",src:"music/DNA.mp3"},
+{name:"0028. 珍妮佛洛佩茲與馬盧瑪 Jennifer Lopez Maluma 只為你 Pa Ti (中字MV)",artist:"珍妮佛洛佩茲與馬盧瑪 ",src:"music/珍妮佛洛佩茲與馬盧瑪 Jennifer Lopez Maluma 只為你 Pa Ti (中字MV).mp3"},
+
 {name:"老菸槍雙人組 The Chainsmokers 嗨 High (中字MV)",artist:"老菸槍雙人組 ",src:"music/老菸槍雙人組 The Chainsmokers 嗨 High (中字MV).mp3"},
 {name:"Justin Bieber - STAY",artist:"Lam 賈斯汀 ",src:"music/Justin Bieber - STAY.mp3"},
 {name:"David Guetta – Family",artist:"David Guetta ",src:"music/David Guetta – Family.mp3"},
@@ -37,7 +47,7 @@ trackList =
 {name:"玖壹壹-9453(歌詞)",artist:"911 ",src:"music/玖壹壹-9453(歌詞).mp3"},
 {name:"大嘴巴 Da Mouth - Funky 那個女孩 ft. 藍心湄 (Official Music Video)",artist:"大嘴巴 ",src:"music/大嘴巴 Da Mouth - Funky 那個女孩 ft. 藍心湄 (Official Music Video).mp3"},
 
-{name:"DNA",artist:"房貸少年 ",src:"music/DNA.mp3"},
+
 {name:"無懼的勇士",artist:"119109 ",src:"music/無懼的勇士.mp3"},
 {name:"惡名昭彰",artist:"館長 ",src:"music/惡名昭彰.mp3"},
 {name:"0000.周杰倫 愛的飛行日記",artist:"周杰倫 ",src:"music/周杰倫 愛的飛行日記.mp3"}, 
@@ -78,7 +88,6 @@ trackList =
 {name:"0025. Ava Max - So Am I [Official Music Video]",artist:"Ava Max ",src:"music/Ava Max - So Am I [Official Music Video].mp3"},
 {name:"0026. Avril Lavigne - What The Hell (Official Music Video)",artist:"Avril Lavigne ",src:"music/Avril Lavigne - What The Hell (Official Music Video).mp3"},
 {name:"0027. Avril Lavigne - Girlfriend (Official Music Video)",artist:"Avril Lavigne ",src:"music/Avril Lavigne - Girlfriend (Official Music Video).mp3"},
-{name:"0028. 珍妮佛洛佩茲與馬盧瑪 Jennifer Lopez Maluma 只為你 Pa Ti (中字MV)",artist:"珍妮佛洛佩茲與馬盧瑪 ",src:"music/珍妮佛洛佩茲與馬盧瑪 Jennifer Lopez Maluma 只為你 Pa Ti (中字MV).mp3"},
 {name:"0029. 黑眼豆豆與夏奇拉 Black Eyed Peas   Shakira 像我這樣的女孩 Girl Like Me (中字MV)",artist:"黑眼豆豆與夏奇拉 ",src:"music/黑眼豆豆與夏奇拉 Black Eyed Peas   Shakira 像我這樣的女孩 Girl Like Me (中字MV).mp3"},
 {name:"0030. Maroon 5 - Animals (Lyrics)",artist:"Maroon 5 ",src:"music/Maroon 5 - Animals (Lyrics).mp3"},
 {name:"0031. Clean Bandit 清潔的盜賊 - Rockabye 乖乖睡 feat. Sean Paul 尚保羅 Anne-Marie 安瑪莉 (華納 Official 高畫質 HD 官方完整版 MV)",artist:"Clean Bandit 清潔的盜賊  ",src:"music/Clean Bandit 清潔的盜賊 - Rockabye 乖乖睡 feat. Sean Paul 尚保羅 Anne-Marie 安瑪莉 (華納 Official 高畫質 HD 官方完整版 MV).mp3"},
@@ -150,8 +159,6 @@ trackList =
 {name:"0097. 周杰倫 Jay Chou-Mojito",artist:"周杰倫 ",src:"music/周杰倫 Jay Chou-Mojito.mp3"},
 {name:"0098. 周湯豪 -角頭 電影主題曲",artist:"周湯豪 ",src:"music/周湯豪 -角頭 電影主題曲.mp3"},
 {name:"0099. 東城衛x謝和弦 D.C.WR-Chord 夠愛【歌詞】",artist:"謝和弦 ",src:"music/東城衛x謝和弦 D.C.WR-Chord 夠愛【歌詞】.mp3"},
-{name:"0100. 哈瓦那情人 卡蜜拉 Camila Cabello 我的老天兒 My Oh My (中字MV)",artist:"卡蜜拉 ",src:"music/哈瓦那情人 卡蜜拉 Camila Cabello 我的老天兒 My Oh My (中字MV).mp3"},
-{name:"0101. 美秀集團 - 擋一根 (高音質試聽)",artist:"美秀集團 ",src:"music/美秀集團 - 擋一根 (高音質試聽).mp3"},
 {name:"0102. 胖虎 - 白月光與朱砂痣",artist:"胖虎 ",src:"music/胖虎 - 白月光與朱砂痣.mp3"},
 {name:"0103. 茄子蛋EggPlantEgg - 愛情你比我想的閣較偉大",artist:"茄子蛋 ",src:"music/茄子蛋EggPlantEgg - 愛情你比我想的閣較偉大.mp3"},
 {name:"0104. 音闕詩聽 - 芒種 (feat.趙方婧)【動態歌詞Lyrics】",artist:"趙方婧 ",src:"music/音闕詩聽 - 芒種 (feat.趙方婧)【動態歌詞Lyrics】.mp3"},
@@ -275,8 +282,6 @@ trackList =
 {name:"五月天 May Day傷心的人別聽慢歌",artist:"五月天 ",src:"music/五月天 May Day傷心的人別聽慢歌.mp3"},
 {name:"泰國恰恰-黃明志",artist:"黃明志 ",src:"music/泰國恰恰-黃明志.mp3"},
 {name:"五月天-派對動物",artist:"五月天 ",src:"music/五月天-派對動物.mp3"},
-{name:"五月天 - 入陣曲【歌詞】",artist:"五月天 ",src:"music/五月天 - 入陣曲【歌詞】.mp3"},
-{name:"五月天-將軍令",artist:"五月天 ",src:"music/五月天-將軍令.mp3"},
 {name:"五月天 洗衣機 歌詞",artist:"五月天 ",src:"music/五月天 洗衣機 歌詞.mp3"},
 {name:"芒种-嘿人李逵",artist:"嘿人李逵 ",src:"music/芒种-嘿人李逵.mp3"},
 {name:"周杰倫-大笨鐘 歌詞",artist:"周杰倫 ",src:"music/周杰倫-大笨鐘 歌詞.mp3"},
