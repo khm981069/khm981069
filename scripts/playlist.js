@@ -13,8 +13,12 @@ trackList =
 {name:"0165. I Really Like You《我真的超級無敵喜歡你》 - MAX Against The Current Cover 中文字幕",artist:"克里斯汀 ",src:"music/I Really Like You《我真的超級無敵喜歡你》 - MAX Against The Current Cover 中文字幕.mp3"},
 {name:"0074. 华晨宇 - 烟火里的尘埃 ",artist:"华晨宇 ",src:"music/华晨宇 - 烟火里的尘埃 .mp3"},
 {name:"0075. 华晨宇《我很丑可是我很温柔》",artist:"华晨宇 ",src:"music/华晨宇《我很丑可是我很温柔》.mp3"},
-
-  
+{name:"0058. The Writers 寫手 [ BURN ]-網路影集《私室》主題曲",artist:"寫手 ",src:"music/The Writers 寫手 [ BURN ]-網路影集《私室》主題曲.mp3"},
+{name:"0059. The Writers 寫手 《To My World》- Mr.Bartender主題曲",artist:"寫手 ",src:"music/The Writers 寫手 《To My World》- Mr.Bartender主題曲.mp3"},
+{name:"0060. The Writers 寫手-自由歌",artist:"寫手 ",src:"music/The Writers 寫手-自由歌.mp3"},
+{name:"0200. 莎拉萊森 Zara Larsson - 不是我的錯 Aint My Fault (HD中字MV)",artist:"莎拉萊森 ",src:"music/莎拉萊森 Zara Larsson - 不是我的錯 Aint My Fault (HD中字MV).mp3"},
+{name:"0201. 陳忻玥 Am I Who I Am 歌詞",artist:"陳忻玥 ",src:"music/陳忻玥 Am I Who I Am 歌詞.mp3"},
+{name:"0202. 陳忻玥 社會敗類 歌詞",artist:"陳忻玥 ",src:"music/陳忻玥 社會敗類 歌詞.mp3"},
   
 {name:"老菸槍雙人組 The Chainsmokers 嗨 High (中字MV)",artist:"老菸槍雙人組 ",src:"music/老菸槍雙人組 The Chainsmokers 嗨 High (中字MV).mp3"},
 {name:"Justin Bieber - STAY",artist:"Lam 賈斯汀 ",src:"music/Justin Bieber - STAY.mp3"},
@@ -121,9 +125,7 @@ trackList =
 {name:"0055. Shakira - Try Everything 全力以赴 中英文歌詞",artist:"Shakira ",src:"music/Shakira - Try Everything 全力以赴 中英文歌詞.mp3"},
 {name:"0056. Shawn Mendes - Theres Nothing Holdin Me Back",artist:"Shawn Mendes ",src:"music/Shawn Mendes - Theres Nothing Holdin Me Back.mp3"},
 {name:"0057. Shawn Mendes - Treat You Better",artist:"Shawn Mendes ",src:"music/Shawn Mendes - Treat You Better.mp3"},
-{name:"0058. The Writers 寫手 [ BURN ]-網路影集《私室》主題曲",artist:"寫手 ",src:"music/The Writers 寫手 [ BURN ]-網路影集《私室》主題曲.mp3"},
-{name:"0059. The Writers 寫手 《To My World》- Mr.Bartender主題曲",artist:"寫手 ",src:"music/The Writers 寫手 《To My World》- Mr.Bartender主題曲.mp3"},
-{name:"0060. The Writers 寫手-自由歌",artist:"寫手 ",src:"music/The Writers 寫手-自由歌.mp3"},
+
 {name:"0061. Tokyo Bon 東京盆踊り2020 (MakuDonarudo) Namewee 黃明志 ",artist:"黃明志 ",src:"music/Tokyo Bon 東京盆踊り2020 (MakuDonarudo) Namewee 黃明志 .mp3"},
 {name:"0062. UNDER LOVER - 癡情玫瑰花 ft 玖壹壹 春風 (官方Music video)",artist:"UNDER LOVER ",src:"music/UNDER LOVER - 癡情玫瑰花 ft 玖壹壹 春風 (官方Music video).mp3"},
 {name:"0063. VAVA - 我的新衣 My New Swag (Feat. Ty. 王倩倩) (華納 Official HD 官方MV)",artist:"VAVA ",src:"music/VAVA - 我的新衣 My New Swag (Feat. Ty. 王倩倩) (華納 Official HD 官方MV).mp3"},
@@ -257,9 +259,7 @@ trackList =
 {name:"0197. 李杰明 W.M.L -【炙愛 feat. 陳忻玥 Vicky Chen】Fiery Love Official MV ",src:"music/李杰明 W.M.L -【炙愛 feat. 陳忻玥 Vicky Chen】Fiery Love Official MV.mp3"},
 {name:"0198. 派偉俊 - 保護你【歌詞】",artist:"派偉俊 ",src:"music/派偉俊 - 保護你【歌詞】.mp3"},
 {name:"0199. 派偉俊Patrick Brasca x 周杰倫Jay Chou【Try】(電影｢功夫熊貓3｣全球主題曲 Kung Fu Panda 3 Theme Song) Official MV",artist:"派偉俊 ",src:"music/派偉俊Patrick Brasca x 周杰倫Jay Chou【Try】(電影｢功夫熊貓3｣全球主題曲 Kung Fu Panda 3 Theme Song) Official MV.mp3"},
-{name:"0200. 莎拉萊森 Zara Larsson - 不是我的錯 Aint My Fault (HD中字MV)",artist:"莎拉萊森 ",src:"music/莎拉萊森 Zara Larsson - 不是我的錯 Aint My Fault (HD中字MV).mp3"},
-{name:"0201. 陳忻玥 Am I Who I Am 歌詞",artist:"陳忻玥 ",src:"music/陳忻玥 Am I Who I Am 歌詞.mp3"},
-{name:"0202. 陳忻玥 社會敗類 歌詞",artist:"陳忻玥 ",src:"music/陳忻玥 社會敗類 歌詞.mp3"},
+
 {name:"0203. 棉花糖 katncandix2 - 馬戲團公約 Circus Convention 自製MV（公視「他們在畢業的前一天爆炸」 片頭曲）",artist:"棉花糖 ",src:"music/棉花糖 katncandix2 - 馬戲團公約 Circus Convention 自製MV（公視「他們在畢業的前一天爆炸」 片頭曲）.mp3"},
 {name:"0204. 黃鴻升 Alien Huang【拿破崙 Napoléon】Official Music Video",artist:"黃鴻升 ",src:"music/黃鴻升 Alien Huang【拿破崙 Napoléon】Official Music Video.mp3"},
 {name:"0205. 潘瑋柏Will Pan 24個比利 24billy官方完整HD MV",artist:"潘瑋柏 ",src:"music/潘瑋柏Will Pan 24個比利 24billy官方完整HD MV.mp3"},
