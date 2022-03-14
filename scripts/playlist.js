@@ -19,7 +19,8 @@ trackList =
 {name:"0200. 莎拉萊森 Zara Larsson - 不是我的錯 Aint My Fault (HD中字MV)",artist:"莎拉萊森 ",src:"music/莎拉萊森 Zara Larsson - 不是我的錯 Aint My Fault (HD中字MV).mp3"},
 {name:"0201. 陳忻玥 Am I Who I Am 歌詞",artist:"陳忻玥 ",src:"music/陳忻玥 Am I Who I Am 歌詞.mp3"},
 {name:"0202. 陳忻玥 社會敗類 歌詞",artist:"陳忻玥 ",src:"music/陳忻玥 社會敗類 歌詞.mp3"},
-  
+{name:"0114. 陳雪凝 - 你的酒館對我打了烊【動態歌詞Lyrics】",artist:"陳雪凝 ",src:"music/陳雪凝 - 你的酒館對我打了烊【動態歌詞Lyrics】.mp3"},
+
 {name:"老菸槍雙人組 The Chainsmokers 嗨 High (中字MV)",artist:"老菸槍雙人組 ",src:"music/老菸槍雙人組 The Chainsmokers 嗨 High (中字MV).mp3"},
 {name:"Justin Bieber - STAY",artist:"Lam 賈斯汀 ",src:"music/Justin Bieber - STAY.mp3"},
 {name:"David Guetta – Family",artist:"David Guetta ",src:"music/David Guetta – Family.mp3"},
@@ -175,7 +176,6 @@ trackList =
 {name:"0111. 陳忻玥 Vicky Chen -【入土之前 Till Im Underground】Official MV",artist:"陳忻玥 ",src:"music/陳忻玥 Vicky Chen -【入土之前 Till Im Underground】Official MV.mp3"},
 {name:"0112. 陳忻玥 Vicky Chen -【炙愛 (女聲版) Fiery Love Vicky Version】Official MV",artist:"陳忻玥 ",src:"music/陳忻玥 Vicky Chen -【炙愛 (女聲版) Fiery Love Vicky Version】Official MV.mp3"},
 {name:"0113. 陳忻玥-My Love is Selfish 歌詞",artist:"陳忻玥 ",src:"music/陳忻玥-My Love is Selfish 歌詞.mp3"},
-{name:"0114. 陳雪凝 - 你的酒館對我打了烊【動態歌詞Lyrics】",artist:"陳雪凝 ",src:"music/陳雪凝 - 你的酒館對我打了烊【動態歌詞Lyrics】.mp3"},
 {name:"0115. 陳勢安 Andrew Tan   畢書盡 Bii - 勢在必行 (官方版MV)",artist:"陳勢安 ",src:"music/陳勢安 Andrew Tan   畢書盡 Bii - 勢在必行 (官方版MV).mp3"},
 {name:"0116. 陳零九 Nine Chen feat. 邱鋒澤 FENG ZE【天黑請閉眼 Werewolves】Official Music Video",artist:"陳零九 ",src:"music/陳零九 Nine Chen feat. 邱鋒澤 FENG ZE【天黑請閉眼 Werewolves】Official Music Video.mp3"},
 {name:"0117. 華晨宇 -《異類》- 異類",artist:"華晨宇 ",src:"music/華晨宇 -《異類》- 異類.mp3"},
