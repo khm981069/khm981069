@@ -1,5 +1,6 @@
 trackList = 
 [
+{name:"0077. 朴樹 - 平凡之路 [歌詞字幕][電影《後會無期》主題曲][完整高清音質] The Continent Theme Song - The Ordinary Road (Pu Shu)",artist:"朴樹 ",src:"music/朴樹 - 平凡之路 [歌詞字幕][電影《後會無期》主題曲][完整高清音質] The Continent Theme Song - The Ordinary Road (Pu Shu).mp3"},
 {name:"瘦子E.SO 妹妹（歌詞）",artist:"瘦子E.SO ",src:"music/瘦子E.SO 妹妹（歌詞）.mp3"},
 {name:"泰特麥可蕾 Tate McRae 好想成為她 shes all i wanna be (中字MV)",artist:"泰特麥可蕾 ",src:"music/泰特麥可蕾 Tate McRae 好想成為她 shes all i wanna be (中字MV).mp3"},
 {name:"咪咪韋伯 Mimi Webb 燒掉你家 House On Fire (中字MV)",artist:"咪咪韋伯 ",src:"music/咪咪韋伯 Mimi Webb 燒掉你家 House On Fire (中字MV).mp3"},
@@ -141,7 +142,6 @@ trackList =
 {name:"0072. 王心凌 Cyndi Wang《在青春迷失的咖啡館》Official Music Video",artist:"王心凌 ",src:"music/王心凌 Cyndi Wang《在青春迷失的咖啡館》Official Music Video.mp3"},
 {name:"0073. 永彬Ryan.B - 放個大招給你看 ‖完整版【動態歌詞Lyrics】",artist:"永彬Ryan.B ",src:"music/永彬Ryan.B - 放個大招給你看 ‖完整版【動態歌詞Lyrics】.mp3"},
 {name:"0076. 囝仔(草屯囝仔臭屁嬰仔)【扛壩子 Big Boss】Official Music Video",artist:"草屯囝仔臭屁嬰仔 ",src:"music/囝仔(草屯囝仔臭屁嬰仔)【扛壩子 Big Boss】Official Music Video.mp3"},
-{name:"0077. 朴樹 - 平凡之路 [歌詞字幕][電影《後會無期》主題曲][完整高清音質] The Continent Theme Song - The Ordinary Road (Pu Shu)",artist:"朴樹 ",src:"music/朴樹 - 平凡之路 [歌詞字幕][電影《後會無期》主題曲][完整高清音質] The Continent Theme Song - The Ordinary Road (Pu Shu).mp3"},
 {name:"0078. 老菸槍雙人組 The Chainsmokers 厭世男孩 Sick Boy (HD中字MV)",artist:"老菸槍雙人組 ",src:"music/老菸槍雙人組 The Chainsmokers 厭世男孩 Sick Boy (HD中字MV).mp3"},
 {name:"0079. 我命不由天",artist:"無 ",src:"music/我命不由天.mp3"},
 {name:"0080. 李杰明 W.M.L -【你接受嗎 feat. 陳忻玥 Vicky Chen】Can You Accept Official MV",artist:"李杰明  ",src:"music/李杰明 W.M.L -【你接受嗎 feat. 陳忻玥 Vicky Chen】Can You Accept Official MV.mp3"},
