@@ -1,7 +1,7 @@
 ﻿trackList = [
-	{
-		name:"凱文柯恩-綠鋼琴 (無廣告版)",
-		artist:"凱文柯恩",
-		src:"music/凱文柯恩-綠鋼琴 (無廣告版).mp3"
-	}
+
+[
+{name:"瘦子E.SO 妹妹（歌詞）",artist:"瘦子E.SO ",src:"music/瘦子E.SO 妹妹（歌詞）.mp3"},
+{name:"瘦子E.SO 妹妹（歌詞）",artist:"瘦子E.SO ",src:"music/瘦子E.SO 妹妹（歌詞）.mp3"},
+{name:"瘦子E.SO 妹妹（歌詞）",artist:"瘦子E.SO ",src:"music/瘦子E.SO 妹妹（歌詞）.mp3"}
 ];
