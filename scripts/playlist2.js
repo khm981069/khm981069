@@ -1,4 +1,4 @@
-﻿trackList = [
+trackList = 
 
 [
 {name:"放鬆音樂1",artist:"1 ",src:"music/放鬆音樂1.mp3"},
