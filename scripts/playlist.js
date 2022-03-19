@@ -1,6 +1,6 @@
 trackList = 
 [
-  
+{name:"這就是人生 Bam Bam",artist:"bii ",src:"music/這就是人生 Bam Bam.mp3"},
 {name:"Alan Walker Torine - Hello World (Official Music Video)",artist:"Alan Walker ",src:"music/Alan Walker Torine - Hello World (Official Music Video).mp3"},
 {name:"林俊傑 JJ Lin - 手心的薔薇",artist:"JJ ",src:"music/林俊傑 JJ Lin - 手心的薔薇.mp3"},
 {name:"張韶涵-破繭",artist:"張韶涵 ",src:"music/張韶涵-破繭.mp3"},
