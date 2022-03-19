@@ -1,5 +1,13 @@
 trackList = 
 [
+  
+{name:"Alan Walker Torine - Hello World (Official Music Video)",artist:"Alan Walker ",src:"music/Alan Walker Torine - Hello World (Official Music Video).mp3"},
+{name:"林俊傑 JJ Lin - 手心的薔薇",artist:"JJ ",src:"music/林俊傑 JJ Lin - 手心的薔薇.mp3"},
+{name:"張韶涵-破繭",artist:"張韶涵 ",src:"music/張韶涵-破繭.mp3"},
+{name:"夢然 - 少年",artist:"夢然 ",src:"music/夢然 - 少年.mp3"},
+{name:"大张伟 - 倍儿爽",artist:"大张伟 ",src:"music/大张伟 - 倍儿爽.mp3"},
+{name:"功夫英雄",artist:"功夫英雄 ",src:"music/功夫英雄.mp3"},
+  
 {name:"0077. 朴樹 - 平凡之路 [歌詞字幕][電影《後會無期》主題曲][完整高清音質] The Continent Theme Song - The Ordinary Road (Pu Shu)",artist:"朴樹 ",src:"music/朴樹 - 平凡之路 [歌詞字幕][電影《後會無期》主題曲][完整高清音質] The Continent Theme Song - The Ordinary Road (Pu Shu).mp3"},
 {name:"瘦子E.SO 妹妹（歌詞）",artist:"瘦子E.SO ",src:"music/瘦子E.SO 妹妹（歌詞）.mp3"},
 {name:"泰特麥可蕾 Tate McRae 好想成為她 shes all i wanna be (中字MV)",artist:"泰特麥可蕾 ",src:"music/泰特麥可蕾 Tate McRae 好想成為她 shes all i wanna be (中字MV).mp3"},
