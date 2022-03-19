@@ -1,5 +1,6 @@
 trackList = 
 [
+{name:"席格拉 Sigala 動人旋律 Melody (中字MV)",artist:"席格拉 ",src:"music/席格拉 Sigala 動人旋律 Melody (中字MV).mp3"},
 {name:"這就是人生 Bam Bam",artist:"bii ",src:"music/這就是人生 Bam Bam.mp3"},
 {name:"Alan Walker Torine - Hello World (Official Music Video)",artist:"Alan Walker ",src:"music/Alan Walker Torine - Hello World (Official Music Video).mp3"},
 {name:"林俊傑 JJ Lin - 手心的薔薇",artist:"JJ ",src:"music/林俊傑 JJ Lin - 手心的薔薇.mp3"},
