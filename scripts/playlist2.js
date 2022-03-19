@@ -5,6 +5,9 @@ trackList =
 {name:"放鬆音樂2",artist:"1 ",src:"music/放鬆音樂2.mp3"},
 
 {name:"學習專注力讀書音樂2",artist:"1 ",src:"music/學習專注力讀書音樂2.mp3"},
+{name:"夏之夜",artist:"1 ",src:"music/夏之夜.mp3"},
+{name:"The Truth That You Leave",artist:"1 ",src:"music/The Truth That You Leave.mp3"},
+  
 {name:"電子音樂1",artist:"1 ",src:"music/電子音樂1.mp3"},
 {name:"電子音樂2",artist:"1 ",src:"music/電子音樂2.mp3"},
   {name:"電子音樂3",artist:"1 ",src:"music/電子音樂3.mp3"},
