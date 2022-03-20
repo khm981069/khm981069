@@ -1,5 +1,6 @@
 trackList = 
 [
+{name:"玖壹壹-戰場傳說",artist:"911 ",src:"music/玖壹壹-戰場傳說.mp3"},
 {name:"抱歉我是渣男 Sorry I’m a Player",artist:"辣個男人 ",src:"music/抱歉我是渣男 Sorry I’m a Player.mp3"},
 {name:"席格拉 Sigala 動人旋律 Melody (中字MV)",artist:"席格拉 ",src:"music/席格拉 Sigala 動人旋律 Melody (中字MV).mp3"},
 {name:"這就是人生 Bam Bam",artist:"bii ",src:"music/這就是人生 Bam Bam.mp3"},
