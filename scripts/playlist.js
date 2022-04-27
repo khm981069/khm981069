@@ -1,5 +1,6 @@
 trackList = 
 [
+{name:"茄子蛋EggPlantEgg - 閣愛妳一擺",artist:"茄子蛋 ",src:"music/茄子蛋EggPlantEgg - 閣愛妳一擺.mp3"},
 {name:"0054. Rosie楊凱琳余楓《怎麼還不愛 Why Not Love》Official Music Video",artist:"楊凱琳余楓 ",src:"music/Rosie楊凱琳余楓《怎麼還不愛 Why Not Love》Official Music Video.mp3"},
 {name:"0140. 【抖音】《That Girl》動態歌詞版",artist:"抖音 ",src:"music/【抖音】《That Girl》動態歌詞版.mp3"},
 {name:"0165. I Really Like You《我真的超級無敵喜歡你》 - MAX Against The Current Cover 中文字幕",artist:"克里斯汀 ",src:"music/I Really Like You《我真的超級無敵喜歡你》 - MAX Against The Current Cover 中文字幕.mp3"},
