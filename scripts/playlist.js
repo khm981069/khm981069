@@ -2,13 +2,11 @@ trackList =
 [
 {name:"《孤勇者-陳奕迅",artist:"陳奕迅 ",src:"music/《孤勇者-陳奕迅.mp3"},
 {name:"八三夭 顛倒世界",artist:"831 ",src:"music/八三夭 顛倒世界.mp3"},
-{name:"TRASH ft. 李浩瑋, PIZZALI, 陳忻玥, G5SH-終究還是因為愛",artist:"TRASH ",src:"music/TRASH ft. 李浩瑋, PIZZALI, 陳忻玥, G5SH-終究還是因為愛.mp3"},
 {name:"卡蜜拉-怪咖 psychofreak",artist:"卡蜜拉",src:"music/卡蜜拉-怪咖 psychofreak.mp3"},
 {name:"紅髮艾德 Ed Sheeran - 2step",artist:"Ed Sheeran ",src:"music/紅髮艾德 Ed Sheeran - 2step.mp3"},
 {name:"夏奇拉-祝賀你",artist:"夏奇拉 ",src:"music/夏奇拉-祝賀你.mp3"},
 {name:"樂洛伊小子-Thousand Miles",artist:"樂洛伊小子 ",src:"music/樂洛伊小子-Thousand Miles.mp3"},
 {name:"Ava Max - Maybe You’re The Problem",artist:"Ava Max ",src:"music/Ava Max - Maybe You’re The Problem.mp3"},
-{name:"LiSA×Uru -THE FIRST TAKE",artist:"LiSA×Uru ",src:"music/LiSA×Uru -THE FIRST TAKE.mp3"},
 {name:"茄子蛋EggPlantEgg - 閣愛妳一擺",artist:"茄子蛋 ",src:"music/茄子蛋EggPlantEgg - 閣愛妳一擺.mp3"},
 {name:"0119. 黃明志 不要去Club 歌詞",artist:"黃明志 ",src:"music/黃明志 不要去Club 歌詞.mp3"},
 {name:"黃明志 Namewee中國痛",artist:"黃明志 ",src:"music/黃明志 Namewee中國痛.mp3"},
