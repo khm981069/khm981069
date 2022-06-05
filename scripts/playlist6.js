@@ -308,5 +308,5 @@ trackList =
 {name:"芒种-嘿人李逵",artist:"嘿人李逵 ",src:"music/芒种-嘿人李逵.mp3"},
 {name:"周杰倫-大笨鐘 歌詞",artist:"周杰倫 ",src:"music/周杰倫-大笨鐘 歌詞.mp3"},
 {name:"1000. 金莎 - 愛的魔法-希望你就是對的人",artist:"金莎 ",src:"music/金莎 - 愛的魔法-希望你就是對的人.mp3"} 
-]
+];
 
